@@ -1,18 +1,12 @@
-## Getting Started
+# 問題解決のための「アルゴリズム×数学」が基礎からしっかり身につく本
+## 第1章　アルゴリズムと数学の密接なかかわり
+## 第2章　アルゴリズムのための数学の基本知識
+## 第3章　基本的なアルゴリズム
+## 第4章　発展的なアルゴリズム
+## 第5章　問題解決のための数学的考察
+## 最終確認問題
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
-
-## Folder Structure
-
-The workspace contains two folders by default, where:
-
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
-
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
-
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
-
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+- 全探索
+- 二分探索
+- 組み合わせの全探索
+- 
